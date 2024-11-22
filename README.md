@@ -1,4 +1,4 @@
-# GROUP5-Customer-Segmentation-with-Clustering-Algorithms
+# Customer-Segmentation-with-Clustering-Algorithms
 
 Objective
 The objective of this assignment is to develop students' ability to apply machine learning techniques, specifically K-Means, DBSCAN, and Hierarchical clustering, to real-world business problems. Students will enhance their skills in data preprocessing, determining the optimal number of clusters, and interpreting the results of clustering analysis. Additionally, students will learn to translate data-driven insights into actionable business strategies, a critical skill in leveraging machine learning for business decision-making.
